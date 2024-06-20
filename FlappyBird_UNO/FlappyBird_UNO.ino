@@ -5,7 +5,7 @@
 #include <Adafruit_SSD1306.h>
 #include <Wire.h>
 
-//the game is designed arund this resolution
+//the game is designed around this resolution
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
